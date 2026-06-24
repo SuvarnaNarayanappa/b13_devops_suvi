@@ -19,3 +19,9 @@ variable content {
 default =" Home"
 
 }
+
+variable filename {
+type =list(string)
+default = ["Suvi" , "Hari"]
+}
+
