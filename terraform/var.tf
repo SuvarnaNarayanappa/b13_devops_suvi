@@ -16,12 +16,12 @@ type = list(list(number))
 
 
 variable content {
-default =" Home"
+default =" Homes"
 
 }
 
 variable filename {
 type =list(string)
-default = ["Suvi" , "Hari"]
+default = ["Suvis" , "Haris"]
 }
 
